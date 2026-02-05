@@ -167,7 +167,7 @@ header {
 .about-sec {
   padding: 95px 0;
   /* min-height: 100vh; */
-  background: url("../Assets/about.png") no-repeat center/cover;
+  background: url("../assets/about.png") no-repeat center/cover;
 }
 .abt-title {
   margin-left: auto;
