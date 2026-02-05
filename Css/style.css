@@ -522,7 +522,7 @@ header {
   background: rgba(39, 76, 142, 100%);
 }
 
-@media (max-width: 576px) { 
+@media (max-width: 576px) {
   .title-1 {
     font-size: 34px;
   }
@@ -547,12 +547,12 @@ header {
   .appoin-card-cnt {
     text-align: center;
   }
- }
- @media (min-width:576px) {
+}
+@media (min-width: 576px) {
   .title-1 {
     font-size: 40px;
   }
   .title-3 {
     font-size: 28px;
   }
- }
+}
