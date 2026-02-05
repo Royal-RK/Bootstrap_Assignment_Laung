@@ -113,7 +113,7 @@ header {
 /*======================== Banner ======================*/
 .bnr-sec {
   padding: 95px 0 !important;
-  background: url("../Assets/bnr-img.png") no-repeat center/cover !important;
+  background: url("../assets/bnr-img.png") no-repeat center/cover !important;
   min-height: calc(100vh - 126.97px) !important;
   display: flex;
   align-items: center;
@@ -388,7 +388,7 @@ header {
   border-radius: 50px;
   width: 100%;
   min-height: 30vh;
-  background: url("../Assets/appion-img.png") no-repeat center/cover;
+  background: url("../assets/appion-img.png") no-repeat center/cover;
   padding: 79px 59px 79px 0;
   position: relative;
 }
